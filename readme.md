@@ -14,7 +14,7 @@
 5. Создайте миграции в базе данных `python manage.py makemigrations`
 6. Примените созданные миграции `python manage.py migrate`
 7. Создайте суперпользователя `python manage.py createsuperuser`
-=======
+
 
 ### Запуск в продакшн
 

@@ -5,8 +5,8 @@
 <span>`Django`</span>
 <span>`DjangoRestFramework`</span>
 
-<hr>
-#### Установка:
+<hr />
+####Установка:
 
 1. Создайте виртуальное окружение и активируйте его `python -m venv venv` и `source venv/bin/activate`
 2. Скачайте репозиторий `https://github.com/Untouchable17/Blackout-Sound.git`
@@ -15,7 +15,7 @@
 6. Примените созданные миграции `python manage.py migrate`
 7. Создайте суперпользователя `python manage.py createsuperuser`
 
-<hr>
+<hr />
 ### Запуск в продакшн
 
 1. В файле `.prod_env` заполните все необходимые поля

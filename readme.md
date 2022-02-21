@@ -13,9 +13,9 @@
 3. Установите все зависимости `pip install -r requirements.txt`
 5. Создайте миграции в базе данных `python manage.py makemigrations`
 6. Примените созданные миграции `python manage.py migrate`
-<<<<<<< HEAD
+
 7. Создайте суперпользователя `python manage.py createsuperuser`
-=======
+
 
 ### Запуск в продакшн
 
@@ -24,5 +24,3 @@
 3. Создайте суперпользователя:<br><br>
    `docker exec -it blackout_sound_web bash`<br>
    `python manage.py createsuperuser`
-
->>>>>>> 9a5318ccedee3bcec78974be7bde97eae651bbaa
